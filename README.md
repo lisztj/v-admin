@@ -1,7 +1,9 @@
 # v-admin
 基于vue3.0后台管理
 
+(渐进式javascript框架vue)[https://cn.vuejs.org/]
 
+ (element-ui组件)[https://element.eleme.cn/#/zh-CN/component/installation]
 
 ## 后台界面
 <p>
